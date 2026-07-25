@@ -1,5 +1,8 @@
 # Finite-Differential-Analysis-for-Solving-Heat-Diffusion-in-a-2D-System
 
+<img width="1920" height="926" alt="download" src="https://github.com/user-attachments/assets/ec1746b6-2469-46c1-9cc4-9acfb3742356" />
+
+
 This project is related to the NUS PC3236 - Computational Methods in Physics
 
 Due to the rapid advancement of technology, heat conduction has become the fundamental process that occurs in diverse engineering applications such as materials science, biomedical engineering, and thermal sciences. Using the existence of 2D heat conduction equations, we could better understand how the heat transfers within the solid materials via steady-state or non-steady-state phenomenon via modeling to gain valuable insights about the temperature profiles and thermal behavior under the different boundary conditions. 
